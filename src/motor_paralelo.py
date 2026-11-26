@@ -3,7 +3,7 @@ motor_paralelo.py
 -----------------
 Motor de actualizacion: version secuencial (1 nucleo) y version paralela
 (multiprocessing). Ambas devuelven un EstadoJuego nuevo, por lo que la
-comparativa de rendimiento es justa.
+comparativa de rendimiento es justas.
 
 Flujo paralelo:
     1. Segmentacion   -> partir la tupla de asteroides en bloques.
